@@ -1,0 +1,3 @@
+## MagicMerge
+
+Merge unmergeable data.
